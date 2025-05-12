@@ -14,7 +14,9 @@ CREATE TABLE `phpmyadmin`.`students` (
   PRIMARY KEY (`id`));
 
 Após, criei o arquivo student-create.php, para depositar o formulario de criação do aluno.
-O próximo passo foi criar o arquivode conexão com o banco de dados, o dbcon.php
-Então, criei o arquivo message.php para configurar a mensagem que aparece após executar ações
-Foi criado o arquivo index.php, onde sera apresentado todos os alunos dentro do sistema
-Foi criado o arquivo student_edit.php, para criar o arquivo de edição dos dados do aluno
+O próximo passo foi criar o arquivode conexão com o banco de dados, o dbcon.php.
+Então, criei o arquivo message.php para configurar a mensagem que aparece após executar ações.
+Foi criado o arquivo index.php, onde sera apresentado todos os alunos dentro do sistema.
+Foi criado o arquivo student-edit.php, para criar o arquivo de edição dos dados do aluno.
+Foi criado o arquivo student-view.php, para que o usuário possa ver os detalhes to cadastro do aluno.
+Foi criado o arquivo code.php, para armazenar como sera o envio dos formularios no banco ded dados.
