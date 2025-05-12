@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Alunos
 
-Nesse projeto, foi criado um sistema CRUD de cadastro de alunos. O cadastro contém o ID do aluno, nome, e-mail, telefone e curso.
+Nesse projeto, foi criado um sistema CRUD de cadastro de alunos. O cadastro contém o ID do aluno, nome, e-mail, telefone e curso. Segue link de vídeo do sistema funcionando: https://vimeo.com/1083373605/ff9c701dc1?share=copy 
 
 # Recursos utilizados
 
